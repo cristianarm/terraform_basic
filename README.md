@@ -3,7 +3,7 @@ repository with basic examples to learn how to program in terraform
 
 Repositoy tree
 
-\*├── tf_basic_01
+\├── tf_basic_01
 \├── tf_basic_02_functions
 \├── tf_basic_03_readfiles
 \├── tf_basic_04_provider-docker
