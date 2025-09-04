@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "user_name": "user_1",
+            "role": "admin",
+            "ssh_key": "ssh-rsa [shortened]"
+        },
+        {
+            "user_name": "user_2",
+            "role": "dev",
+            "ssh_key": "ssh-rsa [dev]"
+        },
+        {
+            "user_name": "user_3",
+            "role": "read_only",
+            "ssh_key": "ssh-rsa [shortened]"
+        },
+        {
+            "user_name": "user_4",
+            "role": "dev",
+            "ssh_key": "ssh-rsa [dev]"
+        },
+        {
+            "user_name": "user_5",
+            "role": "test",
+            "ssh_key": "ssh-rsa [tester]"
+        },
+        {
+            "user_name": "user_99",
+            "role": "stg",
+            "ssh_key": "ssh-rsa [stg]"
+        }
+    ]
+}
