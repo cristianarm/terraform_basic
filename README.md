@@ -1,16 +1,19 @@
 # terraform_basic
 repository with basic examples to learn how to program in terraform.
 
-##sintax
-tf_basic_01.
-tf_basic_02_functions.
-tf_basic_03_readfiles.
+## sintax
+
+tf_basic_01<br>
+tf_basic_02_functions<br>
+tf_basic_03_readfiles<br>
         
-##containers provider
+## containers provider
+
 tf_basic_04_provider-docker
         tf-basic-docker
         tf-docker2
-##cloud provider
+## cloud provider
+
 tf_basic_aws_01
 tf_basic_aws_02_null
 tf_basic_aws_03_DynamicBlock
